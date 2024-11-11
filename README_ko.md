@@ -33,9 +33,8 @@ GitHub, FreshCode Club과 같은 플랫폼을 조사한 결과, 논문 요약 �
 
 **계정 링크**
 - [김채영 GitHub](https://github.com/yoooousir)
-- [유민 GitHub](https://github.com/tarcer12)
+- [유민 GitHub](https://github.com/tracer12)
 - [김범준 GitHub](https://github.com/tigerjun5199)
-- 
 ## 팀 역할
 - **김채영**: 리드 개발자 (백엔드 개발, AI 모델 통합, 프론트엔드 개발자와 협업)
 - **유 민**: 공동 개발자 (프론트엔드 개발, 시각화 구현, 백엔드 개발자와 협업)
