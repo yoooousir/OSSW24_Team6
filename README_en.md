@@ -45,8 +45,5 @@ After researching existing platforms like GitHub and FreshCode Club, we've ident
 
 This project provides a novel approach to understanding academic articles quickly and visually, making it an essential tool for students and researchers alike.
 
-## Project Explanation
-This project aims to create a static website using Jekyll and open-source resources. 
-
 ## Additional Information
 In the context of this project, we use the term "article" to refer to "논문," or academic articles, which are scholarly research papers published in journals or conferences.
