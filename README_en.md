@@ -15,6 +15,7 @@ After researching existing platforms like GitHub and FreshCode Club, we've ident
 1. **Automatic Keyword Extraction**: Utilizes state-of-the-art AI within the RAG framework to extract important keywords from uploaded articles.
 2. **Visual Keyword Mapping**: Generates an interactive network map that displays relationships and hierarchy between keywords, providing an intuitive overview of the article's main concepts.
 3. **Contextual Summaries**: Each keyword node presents contextual summaries from the article, aiding users in understanding each keyword’s significance within the overall document.
+4. **UI/UX provided**: Using the front-end framework, we provide thesis upload functionality and start-up graphical material that users can recognize at a glance.
 
 ## Development Tools and Languages
 - **Automatic Keyword Extraction**
