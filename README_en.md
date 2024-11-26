@@ -1,34 +1,28 @@
-# Graphic Summarization of Article
-
-## Problem Identification and Analysis
-After researching existing platforms like GitHub and FreshCode Club, we've identified a gap in the market for an intuitive, visually engaging tool that represents a keyword map of an article. While there are services that provide article summarization or keyword-based recommendations, tools that visually map the relationships between keywords within an article are lacking. This presents an opportunity to create a more user-friendly and visually appealing tool utilizing advanced AI models, such as Retrieval-Augmented Generation (RAG).
+# OSSW24_Team6 Blog
 
 ## Project Name and Branding
-**Project Name**: Project related to Jekyll blog
+**Project Name**: Jekyll blog development project.
 
 ## Mission Statement
-**Objective**: To provide a graphical summary of PDF-based articles in the form of a keyword network using a Retrieval-Augmented Generation (RAG) system.
+**Objective**: To create an efficient, user-friendly Jekyll blog platform that emphasizes clean design and optimal performance while providing developers with a streamlined workflow for content management and customization.
 
-**Target Audience**: Students and researchers who seek a quick and efficient understanding of academic articles.
+**Target Audience**
+1. **Primary**: Developers and technical professionals seeking a lightweight, customizable blogging platform
+2. **Secondary**: Technical writers and open-source contributors who value version control and markdown-based content creation
 
 ### Key Features
-1. **Automatic Keyword Extraction**: Utilizes state-of-the-art AI within the RAG framework to extract important keywords from uploaded articles.
-2. **Visual Keyword Mapping**: Generates an interactive network map that displays relationships and hierarchy between keywords, providing an intuitive overview of the article's main concepts.
-3. **Contextual Summaries**: Each keyword node presents contextual summaries from the article, aiding users in understanding each keyword’s significance within the overall document.
-4. **UI/UX provided**: Using the front-end framework, we provide thesis upload functionality and start-up graphical material that users can recognize at a glance.
+1. **Responsive Design**: Optimized for all devices and screen sizes
+2. **Fast Load Times**: Generates an interactive network map that displays relationships and hierarchy between keywords, providing an intuitive overview of the article's main concepts.
+3. **Enhanced Search Functionality**: Each keyword node presents contextual summaries from the article, aiding users in understanding each keyword’s significance within the overall document.
+4. **Custom Theme Support**: Using the front-end framework, we provide thesis upload functionality and start-up graphical material that users can recognize at a glance.
+5. **Markdown Editor**: Built-in preview and syntax highlighting
 
 ## Development Tools and Languages
-- **Automatic Keyword Extraction**
-  - **Languages**: Python
-  - **Libraries**: Transformers, spaCy, RAG
-
-- **Visual Keyword Mapping**
-  - **Languages**: Python (backend), React (frontend)
-  - **Libraries**: D3.js, Cytoscape.js, NetworkX
-
-- **Contextual Summaries**
-  - **Languages**: Python
-  - **Libraries**: Transformers, spaCy
+1. **Languages**: Ruby, HTML5, CSS3, JavaScript
+2. **Framework**: Jekyll
+3. **Version Control**: Git, GitHub
+4. **Development Tools**: VSCode, Ruby Gems
+5. **Testing Tools**: HTML Validators, Lighthouse
 
 ## Team6: Chae-Young Kim, Min Yoo, Beom-Jun Kim
 
@@ -38,13 +32,11 @@ After researching existing platforms like GitHub and FreshCode Club, we've ident
 - [Beom-Jun Kim GitHub](https://github.com/tigerjun5199)
 
 ## Team Responsibilities
-- **김채영**: Lead Developer (Backend development, AI model integration, collaborates with frontend developer)
-- **유 민**: Co-Developer (Frontend development, visualization implementation, collaborates with backend developer)
-- **김범준**: Test & Bug-Reporter (Test case development, bug detection, collaborates with developers)
+- **김채영**: Lead Developer (Backend development, Project architecture and planning, Core feature implementation, Code review and quality assurance, collaborates with frontend developer)
+- **유 민**: Co-Developer (Frontend development, Feature development support, Documentation maintenance, collaborates with backend developer)
+- **김범준**: Test & Bug-Reporter (Test case development, bug detection, Quality assurance testing, collaborates with developers)
 
 ---
 
-This project provides a novel approach to understanding academic articles quickly and visually, making it an essential tool for students and researchers alike.
-
 ## Additional Information
-In the context of this project, we use the term "article" to refer to "논문," or academic articles, which are scholarly research papers published in journals or conferences.
+We utilized open source Jekyll Theme (https://github.com/PandaSekh/Jekyll-YAMT) designed and created by Alessio Franceschi.
