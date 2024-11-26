@@ -4,7 +4,7 @@
 After researching existing platforms like GitHub and FreshCode Club, we've identified a gap in the market for an intuitive, visually engaging tool that represents a keyword map of an article. While there are services that provide article summarization or keyword-based recommendations, tools that visually map the relationships between keywords within an article are lacking. This presents an opportunity to create a more user-friendly and visually appealing tool utilizing advanced AI models, such as Retrieval-Augmented Generation (RAG).
 
 ## Project Name and Branding
-**Project Name**: Graphic Summarization of Article
+**Project Name**: Project related to Jekyll blog
 
 ## Mission Statement
 **Objective**: To provide a graphical summary of PDF-based articles in the form of a keyword network using a Retrieval-Augmented Generation (RAG) system.
