@@ -1,12 +1,12 @@
 ---
-title: This is YAMT!
+title: Chae-young KIM
 layout: post
 categories: [Typography, Markdown, Tips]
 image: /assets/img/logo.jpg
-description: "Welcome to YAMT - Yet Another Minimal Theme."
+description: "Welcome to Chae-young KIM page."
 ---
 
-Welcome to YAMT - Yet Another Minimal Theme. YAMT is a minimal Jekyll theme focused on simplicity and ease-of-use. It has great modularity, allowing you to easily decide what you actually want on your website.
+Welcome to Chae-young KIM page. YAMT is a minimal Jekyll theme focused on simplicity and ease-of-use. It has great modularity, allowing you to easily decide what you actually want on your website.
 
 * hello
 {:toc}
