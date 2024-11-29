@@ -1,11 +1,38 @@
 ---
-title: Typography
+title: Beom-Jun Kim
 layout: post
 categories: [Typography, Markdown]
 image: /assets/img/rose.jpg
-description: "Basic typography and styling for your posts."
-customexcerpt: "Basic and advanced typography in YAMT."
+description: "Welcome to Beom-Jun Kim page."
 ---
+## Topic
+
+There are a few things I've been thinking about lately.
+
+- **1. Is CI/CD really necessary?**  
+Don’t get me wrong, I think I need it too.  
+CI? It really need for version control, efficient development, quick feedback, etc.
+CD also need. But what if the distribution target is not clear? Well, isn’t it meaningless in that situation to begin with?
+
+- **1-2. Even if the project is a Python project?**  
+I think this is a little ambiguous. Deploying a Python script rather than a container?  
+Unless there are a very large number of distribution targets, I think there is no need to use it. 
+
+- **2. Is Kubernetes really useful?**  
+It's user friendly. Easy version management, auto clustering, etc.
+However, since it is a bit more convenient than Docker but is a lot heavier, it seems necessary to review its use.
+
+## About me
+I am just an ordinary passerby with some experience in setting up background environments.  
+It's called engineering, but it might need more accounting. Don't come.  
+The three things mentioned above? Honestly, if you can afford it, it's all good, but if the scale becomes even a little bigger, it becomes expensive. You have to be mindful of performance and cost. 
+
+LOL I'm about to run away.  
+Just kidding :)
+
+
+  
+  
 Reference: [GitHub flavored Markdown](https://help.github.com/en/github/writing-on-github).
 
 * random line to make it work. This will be removed.
