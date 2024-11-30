@@ -9,7 +9,7 @@ author:
   url: "https://github.com/yoooousir"
 permalink: /:year/:month/:day/:title:output_ext
 
-theme: jekyll-yamt
+remote_theme: PandaSekh/Jekyll-YAMT
 
 #Plugins
 plugins: [jekyll-paginate, jekyll-feed, jekyll-seo-tag, jekyll-sitemap]
