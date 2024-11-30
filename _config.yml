@@ -12,7 +12,7 @@ permalink: /:year/:month/:day/:title:output_ext
 remote_theme: PandaSekh/Jekyll-YAMT
 
 #Plugins
-plugins: [jekyll-paginate, jekyll-feed, jekyll-seo-tag, jekyll-sitemap]
+plugins: [jekyll-remote-theme, jekyll-paginate, jekyll-feed, jekyll-seo-tag, jekyll-sitemap]
 
 #Pagination
 paginate: 3
