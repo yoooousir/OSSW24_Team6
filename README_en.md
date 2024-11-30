@@ -11,11 +11,15 @@
 2. **Secondary**: Technical writers and open-source contributors who value version control and markdown-based content creation
 
 ### Key Features
-1. **Responsive Design**: Optimized for all devices and screen sizes
-2. **Fast Load Times**: Generates an interactive network map that displays relationships and hierarchy between keywords, providing an intuitive overview of the article's main concepts.
-3. **Enhanced Search Functionality**: Each keyword node presents contextual summaries from the article, aiding users in understanding each keyword’s significance within the overall document.
-4. **Custom Theme Support**: Using the front-end framework, we provide thesis upload functionality and start-up graphical material that users can recognize at a glance.
-5. **Markdown Editor**: Built-in preview and syntax highlighting
+1. Minimal and clean design.
+2. Fully modular: activate and load only what you really need.
+3. Works great on mobile and smaller screens.
+4. Works on Github Pages.
+5. Supports discuss comments activated only on button press, if you activate them.
+6. Open Graph and Twitter Cards support to better index the website content on search engines and social networks.
+8. MathJAX and LaTeX optional support. Write beautiful math!
+9. RSS support.
+10. Beautiful Syntax Highlight. Write some code and show it in a graceful way.
 
 ## Development Tools and Languages
 1. **Languages**: Ruby, HTML5, CSS3, JavaScript
