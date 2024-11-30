@@ -1,8 +1,8 @@
 # Site settings
 title: OSSW24_Team6
 description: "This is Team6 blog developed in OSSW24, Sejong University."
-url:  "https://pandasekh.github.io/Jekyll-YAMT/" # Actual base url of the website
-baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
+url:  "https://ossw24_team6.github.io" # Actual base url of the website
+baseurl: "/website/ossw24_team6"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
   name: "Chae-young KIM"
   email: "kcy537199@sju.ac.kr"
