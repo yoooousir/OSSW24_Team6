@@ -3,5 +3,5 @@ layout: default
 title: About
 ---
 
-# [YAMT - Yet Another Minimal Theme](https://yamt.netlify.app/)
-See [Github](https://github.com/PandaSekh/Jekyll-YAMT).
+# Welcome to OSSW24_Team6 Github Pages!
+See [Github](https://github.com/yoooousir/OSSW24_Team6.github.io).
