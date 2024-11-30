@@ -10,5 +10,3 @@ social:
   - {icon: 'envelope', type: "solid", link: 'kcy537199@sju.ac.kr'}
   - {icon: 'envelope', type: "solid", link: 'vendetta12@naver.com'}
   - {icon: 'envelope', type: "solid", link: 'tigerjun5199@gmail.com'}
-  
-  - {icon: 'rss', type: "solid", link: "/feed.xml"}
