@@ -7,6 +7,6 @@ social:
   - {icon: 'github', type: "brand", link: 'https://www.github.com/tracer12'}
   - {icon: 'github', type: "brand", link: 'https://www.github.com/tigerjun5199'}
   
-  - {icon: 'envelope', type: "solid", link: 'kcy537199@sju.ac.kr'}
-  - {icon: 'envelope', type: "solid", link: 'vendetta12@naver.com'}
-  - {icon: 'envelope', type: "solid", link: 'tigerjun5199@gmail.com'}
+  - {icon: 'envelope', type: "solid", link: 'mailto:kcy537199@sju.ac.kr'}
+  - {icon: 'envelope', type: "solid", link: 'mailto:vendetta12@naver.com'}
+  - {icon: 'envelope', type: "solid", link: 'mailto:tigerjun5199@gmail.com'}
