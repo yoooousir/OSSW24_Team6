@@ -11,10 +11,8 @@ title: About
 3. Works great on mobile and smaller screens.
 4. Works on Github Pages.
 5. Supports discuss comments activated only on button press, if you activate them.
-6. Open Graph and Twitter Cards support to better index the website content on search engines and social networks.
-8. MathJAX and LaTeX optional support. Write beautiful math!
-9. RSS support.
-10. Beautiful Syntax Highlight. Write some code and show it in a graceful way.
+6. MathJAX and LaTeX optional support. Write beautiful math!
+7. Beautiful Syntax Highlight. Write some code and show it in a graceful way.
 
 ## Development Tools and Languages
 1. **Languages**: Ruby, HTML5, CSS3, JavaScript
