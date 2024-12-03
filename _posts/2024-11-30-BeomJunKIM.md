@@ -4,7 +4,7 @@ layout: post
 categories: [Typography, Markdown]
 description: "Welcome to Beom-Jun Kim page."
 ---
-# Chae-young KIM
+# Beom-Jun Kim
 ## Test&Bug-Reporter 
 ## Back-End Engineer
 
