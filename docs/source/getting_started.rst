@@ -1,28 +1,47 @@
-Prerequisites
-------------
-- Python 3.8 or higher
-- Git installed on your system
-- Basic knowledge of web development
+Getting Started
+==============
+
+This guide will help you get started with the project.
 
 Installation
 -----------
-1. Clone the repository::
 
-    git clone https://github.com/yoooousir/OSSW24_Team6.github.io.git
-    cd OSSW24_Team6.github.io
+Prerequisites
+^^^^^^^^^^^^
+* Python 3.8 or higher
+* pip package manager
+* Git (optional, for version control)
 
-2. Install dependencies::
+Step 1: Create a Virtual Environment
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. code-block:: bash
 
-    pip install -r requirements.txt
+   python -m venv docs_env
+   source docs_env/bin/activate  # On Windows: docs_env\Scripts\activate
 
-Basic Setup
+Step 2: Install Required Packages
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. code-block:: bash
+
+   pip install sphinx sphinx-rtd-theme recommonmark
+
+Step 3: Initialize Sphinx Documentation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. code-block:: bash
+
+   mkdir docs
+   cd docs
+   sphinx-quickstart
+
+Basic Usage
 ----------
-1. Configure your environment
-2. Run initial setup
-3. Verify installation
 
-Next Steps
----------
-- Read our :doc:`how_to_use` guide
-- Check :doc:`configuration` options
-- Join our community
+Creating Documentation
+^^^^^^^^^^^^^^^^^^^^
+1. Navigate to your docs directory
+2. Create or modify .rst files
+3. Build the documentation:
+
+.. code-block:: bash
+
+   make html
