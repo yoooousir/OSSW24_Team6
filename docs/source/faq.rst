@@ -1,15 +1,45 @@
+Frequently Asked Questions
+========================
+
 General Questions
 ---------------
-Q: What is this project?
-A: Jekyll blog development project.
 
-Q: How do I get started?
-A: First install Ruby on your machine. With Ruby installed, create jekyll from the terminal and a new Gemfile. Edit the Gemfile and run Bundle. Now you can bundle exec jekyll serve.
+How do I start the project?
+^^^^^^^^^^^^^^^^^^^^^^^^^
+To start the project, follow these steps:
 
-Q: Where can I get help?
-A: You can get help from jekyllrb.com with step by step tutorial.
+1. Install required dependencies
+2. Configure your environment
+3. Run the initialization script
 
-Technical Questions
-----------------
-Q: What are the system requirements?
-A: Ruby version 2.5.0 or higher, RubyGems, GCC and Make.
+Why am I getting an error XYZ?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Common causes for this error:
+
+* Incorrect configuration
+* Missing dependencies
+* Permission issues
+
+Installation Issues
+-----------------
+
+Missing Dependencies
+^^^^^^^^^^^^^^^^^
+Q: What should I do if I'm missing dependencies?
+
+A: Run the following command:
+
+.. code-block:: bash
+
+   pip install -r requirements.txt
+
+Version Conflicts
+^^^^^^^^^^^^^^^
+Q: How do I resolve version conflicts?
+
+A: Try creating a new virtual environment:
+
+.. code-block:: bash
+
+   python -m venv new_env
+   source new_env/bin/activate
