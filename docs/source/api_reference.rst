@@ -1,31 +1,53 @@
-Overview
---------
-Complete reference for all public APIs.
+API Reference
+============
 
-Endpoints
---------
-GET /api/v1/resource
-~~~~~~~~~~~~~~~~~~~
-Description of the endpoint and its functionality.
+Core Functions
+-------------
 
-Parameters:
-- param1: description
-- param2: description
+Database Operations
+^^^^^^^^^^^^^^^^^
 
-Response::
+.. code-block:: python
 
-    {
-        "status": "success",
-        "data": {}
-    }
+    def connect_database(host: str, port: int) -> Connection:
+        """
+        Establish database connection.
+        
+        Args:
+            host (str): Database host address
+            port (int): Port number
+            
+        Returns:
+            Connection: Database connection object
+        """
+        # Implementation details
 
-POST /api/v1/resource
-~~~~~~~~~~~~~~~~~~~~
-Description of the POST endpoint.
+Authentication
+^^^^^^^^^^^^^
 
-Request Body::
+.. code-block:: python
 
-    {
-        "field1": "value1",
-        "field2": "value2"
-    }
+    def authenticate_user(username: str, password: str) -> bool:
+        """
+        Authenticate user credentials.
+        
+        Args:
+            username (str): User's username
+            password (str): User's password
+            
+        Returns:
+            bool: Authentication status
+        """
+        # Implementation details
+
+Error Codes
+----------
+
+=======  ================================
+Code     Description
+=======  ================================
+1001     Database connection failed
+1002     Authentication failed
+1003     Invalid input parameters
+1004     Resource not found
+=======  ================================
