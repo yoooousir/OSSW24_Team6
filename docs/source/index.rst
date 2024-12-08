@@ -1,7 +1,5 @@
-Welcome to OSSW24_Team6 Documentation
+Welcome to OSSW24_Team6
 ===================================
-
-`Visit Our Project Website <https://ossw24_team6.github.io>`_
 
 .. toctree::
    :maxdepth: 2
@@ -9,7 +7,7 @@ Welcome to OSSW24_Team6 Documentation
 
    about
    getting_started
-   how_to_use
+   usage
    technical_overview
    api_reference
    configuration
@@ -18,16 +16,27 @@ Welcome to OSSW24_Team6 Documentation
    faq
    release_notes
 
-Getting Started
--------------
-Quick links to get you started:
+Introduction
+-----------
 
-* :doc:`about` - Learn about our project
-* :doc:`getting_started` - Installation and setup
-* :doc:`how_to_use` - Basic usage guide
+Welcome to the OSSW24_Team6 project. This documentation provides comprehensive information about installation, usage, and contribution guidelines.
 
-Need Help?
----------
-* Check our :doc:`faq` for common questions
-* Visit our `GitHub repository <https://github.com/yoooousir/OSSW24_Team6.github.io>`_
-* Join our community discussions
+Quick Start
+----------
+
+   .. code-block:: bash
+
+      git clone https://github.com/yoooousir/OSSW24_Team6.github.io.git
+      cd ReadTheDocs
+      python -m venv docs_env
+      source docs_env/bin/activate  # Windows: docs_env\Scripts\activate
+      pip install -r docs/requirements.txt
+
+Getting Help
+-----------
+
+If you need help, you can:
+
+* Check the :doc:`faq`
+* Submit an issue on GitHub
+* Contact the development team
