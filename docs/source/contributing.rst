@@ -14,7 +14,7 @@ How to Contribute
 
    .. code-block:: bash
 
-      git clone https://github.com/yoooousir/ReadTheDocs.git
+      git clone https://github.com/yoooousir/OSSW24_Team6.github.io.git
       cd ReadTheDocs
       python -m venv docs_env
       source docs_env/bin/activate  # Windows: docs_env\Scripts\activate
