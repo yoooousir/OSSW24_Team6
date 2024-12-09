@@ -36,7 +36,7 @@ Project Information
 .. code-block:: python
 
     project = 'OSSW24_Team6'
-    copyright = '2024, Chaeyoung KIM'
+    copyright = '2024, Team6'
     author = 'Chaeyoung KIM'
     version = '0.1'
     release = '0.1.0'
