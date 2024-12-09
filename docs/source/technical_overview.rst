@@ -26,13 +26,19 @@ The design principles include:
 Components
 ----------
 1. **Component One: Page Management**
+
    - **Purpose:** Manages the creation and navigation of pages, such as "Home," "About," "Contact," "Community," and "Get Jekyll-Theme."
+
    - **Implementation:** Pages are defined as markdown files in the root directory, processed by Jekyll to generate responsive, static HTML. Navigation menus leverage the theme's built-in support for dynamic rendering using the `site.pages` variable.
+
    - **Dependencies:** Jekyll core, "Jekyll-YAMT" theme, YAML configuration for metadata.
 
 2. **Component Two: Theme and Layout**
+
    - **Purpose:** Implements the "Jekyll-YAMT" theme to achieve a cohesive and visually appealing layout.
+
    - **Implementation:** Uses the theme’s predefined layout files for uniformity. Custom styles are added via the `assets/css/style.css` file to fine-tune the appearance while adhering to the minimalistic approach.
+
    - **Dependencies:** SCSS for styling, Jekyll's Liquid templating engine, and "Jekyll-YAMT" as the primary theme.
 
 Technology Stack
