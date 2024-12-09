@@ -19,7 +19,7 @@ Team Members
 -----------
 
 * Team Leader: Chae-young KIM
-* Documentation: Chae-young KIM
+* Documentation: Chae-young KIM, Min YOO, Beom-jun KIM
 * Development: Chae-young KIM, Min YOO, Beom-jun KIM
 * Testing: Chae-young KIM, Min YOO, Beom-jun KIM
 
