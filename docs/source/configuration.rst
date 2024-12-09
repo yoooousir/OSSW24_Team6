@@ -37,6 +37,6 @@ Project Information
 
     project = 'OSSW24_Team6'
     copyright = '2024, Team6'
-    author = 'Chaeyoung KIM'
+    author = 'Chaeyoung KIM, Min YOO, Beomjun KIM'
     version = '0.1'
     release = '0.1.0'
