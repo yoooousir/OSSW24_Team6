@@ -1,7 +1,7 @@
 # Project information
 project = 'ossw24_team6'
-copyright = '2024, Chae-young KIM'
-author = 'Chae-young KIM'
+copyright = '2024, Team6'
+author = 'Team6'
 release = '0.1'
 
 # General configuration
