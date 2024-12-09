@@ -6,10 +6,10 @@ Architecture
 This GitHub blog project, developed with the minimalistic "Jekyll-YAMT" theme, is designed to be simple, scalable, and easy to customize. The project organizes content into distinct pages, including "Home," "About," "Contact," "Community," and "Get Jekyll-Theme." It follows a modular directory structure that leverages the "Jekyll-YAMT" theme's minimalist design philosophy. 
 
 The structure is as follows:
-- **Pages Directory:** Contains markdown files for individual pages, processed by Jekyll into static HTML.
-- **Layouts Directory:** Utilizes theme-specific layouts, such as `default.html`, to provide cohesive styling across the blog.
-- **Includes Directory:** Stores partial HTML snippets (e.g., headers and footers) optimized for the "Jekyll-YAMT" theme.
-- **Assets Directory:** Contains CSS, JavaScript, and image resources customized to align with the minimalistic aesthetics of "Jekyll-YAMT."
+1. **Pages Directory:** Contains markdown files for individual pages, processed by Jekyll into static HTML.
+2. **Layouts Directory:** Utilizes theme-specific layouts, such as `default.html`, to provide cohesive styling across the blog.
+3. **Includes Directory:** Stores partial HTML snippets (e.g., headers and footers) optimized for the "Jekyll-YAMT" theme.
+4. **Assets Directory:** Contains CSS, JavaScript, and image resources customized to align with the minimalistic aesthetics of "Jekyll-YAMT."
 
 The design principles include:
 1. **Minimalistic Design:** Leveraging "Jekyll-YAMT" to prioritize clean visuals and responsive UI.
