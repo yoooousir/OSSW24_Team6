@@ -26,7 +26,7 @@ Quick Start
 
    .. code-block:: bash
 
-      git clone https://github.com/yoooousir/OSSW24_Team6.github.io.git
+      git clone https://github.com/yoooousir/OSSW24_Team6.git
       cd ReadTheDocs
       python -m venv docs_env
       source docs_env/bin/activate  # Windows: docs_env\Scripts\activate
