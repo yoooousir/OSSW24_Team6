@@ -4,7 +4,7 @@ File Structure
 
 The project has the following structure::
 
-    jekyll-blog-repository/
+    OSSW24_Team6/
     ├── _data/
     ├── _includes/
     ├── _layouts/
