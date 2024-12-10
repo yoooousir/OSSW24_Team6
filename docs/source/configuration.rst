@@ -1,35 +1,58 @@
-Configuration
 ============
-
 File Structure
 -------------
 
-The documentation project has the following structure::
+The project has the following structure::
 
-    docs/
-    ├── source/
-    │   ├── conf.py
-    │   ├── index.rst
-    │   ├── about.rst
-    │   └── ...
-    ├── Makefile
-    └── make.bat
+    jekyll-blog-repository/
+    ├── _data/
+    ├── _includes/
+    ├── _layouts/
+    ├── _posts/
+    ├── _sass/
+    ├── assets/
+    ├── docs/
+    │   ├── source/
+    │   │   ├── conf.py
+    │   │   ├── index.rst
+    │   │   ├── about.rst
+    │   │   └── ...
+    │   ├── Makefile
+    │   └── make.bat
+    ├── docs_env/
+    ├── _config.yml
+    ├── about.md
+    ├── categories.md
+    ├── community.md
+    ├── contact-successful.md
+    ├── contact.md
+    ├── index.html
+    ├── Gemfile
+    ├── jekyll-yamt.gemspec
+    ├── utterances.json
+    ├── .gitignore
+    ├── .gitattributes
+    ├── README.md
+    ├── ISSUE_TEMPLATE.md
+    ├── PULL_REQUEST_TEMPLATE.md
+    ├── CODE_OF_CONDUCT.md
+    └── ...
 
 Configuration Options
 -------------------
 
+In ``_config.yml``, you can configure:
+- **Site settings**: Title, description, base URL, and more.
+- **Theme settings**: Specify the theme (e.g., "Jekyll-YAMT") and its options.
+- **Plugins**: Add or configure Jekyll plugins for extended functionality.
+- **Collections and data**: Define custom collections or provide site data.
+
 In ``conf.py``, you can configure:
+- **Project information**: Set the title, author, and version for your documentation.
+- **Extensions**: Enable or disable Sphinx extensions for documentation features.
+- **HTML theme**: Choose a theme for the ReadTheDocs-hosted site.
+- **Paths**: Specify the location of templates and static files.
 
-Theme Settings
-^^^^^^^^^^^^^
-.. code-block:: python
-
-    html_theme = 'sphinx_rtd_theme'
-    html_theme_options = {
-        'navigation_depth': 4,
-        'collapse_navigation': False,
-        'sticky_navigation': True
-    }
 
 Project Information
 ^^^^^^^^^^^^^^^^^
